@@ -25,7 +25,7 @@ React를 활용한 프로젝트입니다.
 - React.js
 
 ## 2. Detail of Project
-### 2-1. /vidoes (메인페이지)
+### 2-1. / (메인페이지)
 https://github.com/user-attachments/assets/31f4c321-1839-4055-b993-7da2f387f323
 ### 2-2. /vidoes/keyword (메인페이지에서 검색)
 https://github.com/user-attachments/assets/194633a2-9a01-4ebd-8bbf-dd55436c9a15
