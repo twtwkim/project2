@@ -25,8 +25,18 @@ React를 활용한 프로젝트입니다.
 - React.js
 
 ## 2. Detail of Project
-### 2-1. /main (메인페이지)
-https://github.com/user-attachments/assets/03e08d2e-378c-4380-b3dd-ca4abb26ae69
+### 2-1. /vidoes (메인페이지)
+https://github.com/user-attachments/assets/31f4c321-1839-4055-b993-7da2f387f323
+### 2-2. /vidoes/keyword (메인페이지에서 검색)
+https://github.com/user-attachments/assets/194633a2-9a01-4ebd-8bbf-dd55436c9a15
+### 2-3. /vidoes/keyword (음성인식 및 검색)
+
+### 2-4. /shorts (쇼츠 페이지)
+https://github.com/user-attachments/assets/3f2996b6-16c4-4df5-966b-ca8719b29a49
+### 2-5. /vidoes/watch/id (영상별 페이지)
+https://github.com/user-attachments/assets/390c6b4e-ed20-42b7-abb7-c77b54b27ec3
+### 2-6. /vidoes/watch/id (동일 채널내 다른 영상 페이지)
+https://github.com/user-attachments/assets/b771120d-6325-4e90-b429-31ca7ecf770e
 
 ## 3. Future Improvements
 ### 3-1. 로그인 및 로그아웃 기능 구현(구글 로그인 api 활용) 
