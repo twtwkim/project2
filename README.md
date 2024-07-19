@@ -32,6 +32,6 @@ https://github.com/user-attachments/assets/03e08d2e-378c-4380-b3dd-ca4abb26ae69
 ### 3-1. 로그인 및 로그아웃 기능 구현(구글 로그인 api 활용) 
 ### 3-2. 로그인 계정의 시청 기록 및 구독 채널의 최신영상 목록화 구현
 
-### `npm start`
+### 4. `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
