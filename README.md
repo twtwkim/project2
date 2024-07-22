@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/31f4c321-1839-4055-b993-7da2f387f323
 ### 2-2. /vidoes/keyword (메인페이지에서 검색)
 https://github.com/user-attachments/assets/194633a2-9a01-4ebd-8bbf-dd55436c9a15
 ### 2-3. /vidoes/keyword (음성인식 및 검색)
-
+https://github.com/user-attachments/assets/c019f8d2-d91c-46b3-99de-2eccfc73e411
 ### 2-4. /shorts (쇼츠 페이지)
 https://github.com/user-attachments/assets/3f2996b6-16c4-4df5-966b-ca8719b29a49
 ### 2-5. /vidoes/watch/id (영상별 페이지)
